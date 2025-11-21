@@ -9,16 +9,14 @@ export * from './activity'
 // personal info
 export const name = 'Jacques Attinger'
 export const headline = 'Math student'
-export const introduction = 'I’m Jacques, a math student based in Shenzhen, China. I like coding, and building interesting things'
+export const introduction = 'I’m Jacques, a math student based in Chicago, IL. I am  broadly interested in mathematics, AI/ML, and automation.'
 export const email = 'jacques.attinger@gmail.com'
 export const githubUsername = 'JacquesAttinger'
 
 // about page
-export const aboutMeHeadline = "I'm Jacques Attinger, a math student based in Chicago, IL.."
+export const aboutMeHeadline = "I'm Jacques Attinger, a mathematics student based in Chicago, IL."
 export const aboutParagraphs = [
-  "I love coding. I learned programming when I in college. I wrote my first program in Java when I was 18.",
-  "I have a lot of hobbies, such as travelling, photography, watching movies, music and so on.",
-  "I'm working as a software develop engineer in Shenzhen, China now. And I'm building a lot of side projects in my spare time."
+  "My hobbies include playing basketball, reading, and coding. I started college as a Math and Physics double major intending to pursue a career in academia, but my experience working in a lab has made me realize that I am interested in coding up solutions to real world problems."
 ]
 
 
