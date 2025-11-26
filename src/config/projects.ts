@@ -1,5 +1,5 @@
 // projects
-export const projectHeadLine = "Selected Works"
+export const projectHeadLine = "Selected Projects"
 export const projectIntro = ""
 
 export type ProjectItemType = {
@@ -119,19 +119,18 @@ export const githubProjects: Array<ProjectItemType> = [
     name: 'Mini-MBE Graphical User Interface',
     description:
       'Graphical User Interface for Miniaturized Molecular Beam Epitaxy (MBE) setup',
-    link: { href: 'https://github.com/JacquesAttinger/Mini-MBE', label: 'Mini-MBE' },
+    link: { href: 'github.com/JacquesAttinger/Mini-MBE-Graphical-User-Interface', label: 'Mini-MBE' },
   },
   {
     name: 'Storely',
     description:
       'AI-powered e-commerce platform',
-    link: { href: 'https://github.com/JacquesAttinger/ClaudeVibeSDK.git', label: 'Storely' },
+    link: { href: 'github.com/JacquesAttinger/ClaudeVibeSDK.git', label: 'Storely' },
   },
   {
     name: 'SLADS-Net',
     description:
       'Neural network trained dynamic sampling algorithm for scanning microscopy',
-    link: { href: 'https://github.com/JacquesAttinger/SLADS-Net.git', label: 'SLADS-Net' },
+    link: { href: 'github.com/JacquesAttinger/SLADS-Net', label: 'SLADS-Net' },
   },
 ]
-
